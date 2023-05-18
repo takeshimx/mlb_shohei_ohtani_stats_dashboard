@@ -1,0 +1,6 @@
+altair==4.2.2
+numpy==1.24.1
+pandas==1.5.2
+plotly==5.13.0
+pybaseball==2.2.5
+streamlit==1.18.1
