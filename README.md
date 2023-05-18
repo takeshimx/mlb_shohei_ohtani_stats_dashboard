@@ -1,7 +1,7 @@
 # MLB Shohei Ohtani Stats Dashboard v1.1
 
 ### Project Motivation
-In this project, stats for Shohei Ohtani, a two-way player in MLB, are focused on analysis from both pitching and batting perspectives. In the dashboard, jos stats are also compared with those of other top MLB players, to showcase how talented he is on both sides. 
+In this project, stats for Shohei Ohtani, a two-way player in MLB, are focused on analysis from both pitching and batting perspectives. In the dashboard, both stats are also compared with those of other top MLB players, to showcase how talented he is on both sides. 
 
 ### Dashboard app images
 Screenshots from the dashboard are shared below.
