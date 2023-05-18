@@ -3,23 +3,32 @@
 ### Project Motivation
 In this project, stats for Shohei Ohtani, a two-way player in MLB, are focused on analysis from both pitching and batting perspectives. In the dashboard, jos stats are also compared with those of other top MLB players, to showcase how talented he is on both sides. 
 
-### Key highlights of many
-The highlights from the results of the analysis including insights from this dataset are shared below.
+### Dashboard app images
+Screenshots from the dashboard are shared below.
 
-1. highlight 1<br>
-![image](link)
+1. Pitching 1<br>
+![image](images/showtime_dash_pitch_1.jpg)
 
-2. highlight 1<br>
-![image](link)
+2. Pitching 2<br>
+![image](images/showtime_dash_pitch_2.jpg)
 
-3. highlight 1<br>
-![image](link)
+3. Pitching 3<br>
+![image](images/showtime_dash_pitch_3.jpg)
 
-4. highlight 1<br>
-![image](link)
+4. Pitching 4<br>
+![image](images/showtime_dash_pitch_4.jpg)
 
-5. highlight 1<br>
-![image](link)
+5. Batting 1<br>
+![image](images/showtime_dash_batting_1.jpg)
+
+6. Batting 2<br>
+![image](images/showtime_dash_batting_2.jpg)
+
+7. Batting 3<br>
+![image](images/showtime_dash_batting_3.jpg)
+
+8. Batting 4<br>
+![image](images/showtime_dash_batting_4.jpg)
 
 ### How to use app in local
 To be updated.
