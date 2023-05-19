@@ -4,7 +4,7 @@
 In this project, stats for Shohei Ohtani, a two-way player in MLB, are focused on analysis from both pitching and batting perspectives. In the dashboard, both stats are also compared with those of other top MLB players, to showcase how talented he is on both sides. 
 
 ### Dashboard app images
-Screenshots from the dashboard are shared below.
+Screenshots samples from the dashboard are shared below.
 
 1. Pitching 1<br>
 ![image](images/showtime_dash_pitch_1.jpg)
@@ -30,8 +30,13 @@ Screenshots from the dashboard are shared below.
 8. Batting 4<br>
 ![image](images/showtime_dash_batting_4.jpg)
 
-### How to use app in local
-To be updated.
+### How to run app in local
+1. Visit jupyter notebook files and create necessary data files for the app
+2. Download necessary files from this repo
+3. Type the command below in the directory those files are stored
+'''
+streamlit run Pitching.py
+'''
 
 ### File Descriptions
 Below are files for this project.
