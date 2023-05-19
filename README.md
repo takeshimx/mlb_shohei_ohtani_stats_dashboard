@@ -62,12 +62,13 @@ The following Python libraries were used in this project.
 - streamlit==1.18.1
 
 ### Dashabord app link
-Please visit and find analysis and insights [here](link).
+Please visit and find analysis and insights [here](link). *To be updated.*
 
 ### Acknowledgements
 References below
-- [Baseabll Reference]()
-- [Fangraph Baseball]()
-- [Baseball Savant]()
-- [MLB.com]()
+- [Baseabll Reference](https://www.baseball-reference.com/)
+- [FanGraphs Baseball](https://www.fangraphs.com/)
+- [Baseball Savant](https://baseballsavant.mlb.com/)
+- [MLB.com](https://www.mlb.com/)
+- [An interactive Dashboard using python and Streamlit](https://www.youtube.com/watch?v=Sb0A9i6d320&t=5s)
 
