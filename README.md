@@ -34,9 +34,9 @@ Screenshots samples from the dashboard are shared below.
 1. Visit jupyter notebook files and create necessary data files for the app
 2. Download necessary files from this repo
 3. Type the command below in the directory those files are stored
-'''
+```
 streamlit run Pitching.py
-'''
+```
 
 ### File Descriptions
 Below are files for this project.
