@@ -62,7 +62,7 @@ The following Python libraries were used in this project.
 - streamlit==1.18.1
 
 ### Dashabord app link
-Please visit and find analysis and insights [here](link). *To be updated.*
+Please visit and find analysis and insights [here](link). *WIP. To be updated.*
 
 ### Acknowledgements
 References below
