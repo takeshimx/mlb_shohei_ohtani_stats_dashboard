@@ -1,9 +1,38 @@
 # MLB Shohei Ohtani Stats Dashboard v1.1
 
+_Caveats: This is an initial pilot dashboard and data shown might be slightly different from actual stats._<br>
+
 ### Project Motivation
 In this project, stats for Shohei Ohtani, a two-way player in MLB, are focused on analysis from both pitching and batting perspectives. In the dashboard, both stats are also compared with those of other top MLB players, to showcase how talented he is on both sides. 
 
-### Dashboard app images
+### Dashboard overview
+The dashboard has two pages, Pitching and Batting. Sections are categorized as below.<br>
+* Pitching
+    * Key Pitching Stats
+    * Pitch Movement, Position, & Speed<br>
+    The first plot shows relationship between vertical and horizontal pitch movement by pitch name for individual pitcher,<br>
+    and the second shows relationship between vertical and horizontal pitch position.<br>
+    The third plot shows pitch speed by pitch type and by game.<br>
+    These plots are linked with filters in the side bar.
+
+    * Pitch Usage<br>
+    In this section, pitch usage of Shohei Ohtani is compared with other pitchers.
+
+    * Pitching Defense Analysis<br>
+    The first plot shows pitching stats by inning at season level, focusing on three metrics BAA (Batting Average Against), HRs allowed, and hits allowed. This also allows you to compare with other pitchers.<br>
+    The other two plots shows ERA+ ranking and the relationship between pitcher WAR and ERA. Season and IP (Inning Pitched) can be filtered.
+
+* Batting
+    * Key Batting Stats
+    * Stats by Batting Events<br>
+    The first part shows relationship between batting speed and angle by batting events such as field out, single, home run, or etc, and alo by batted ball categories such as barrel.<br>
+    These plots are linked with filters in the side bar.<br>
+    The second part show batting stats at strike count and at RISP (Runners In Scoring Position). These stats can be caompared with other batters.
+
+    * Offense Analysis<br>
+    This secion includes the following four plots, OPS+ ranking, Barrel % ranking, wRC+ ranking plots, and relationsihp between batter WAR and OPS.<br>
+    Season, league, and PA (Plate Appearance) range can be filtered.<br>
+
 Screenshots samples from the dashboard are shared below.
 
 1. Pitching 1<br>
